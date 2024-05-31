@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Arama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Duzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Favoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SonArananlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rehber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
